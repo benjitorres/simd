@@ -1,0 +1,2 @@
+# simd
+learning about simd
